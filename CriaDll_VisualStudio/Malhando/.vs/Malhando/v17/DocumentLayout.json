@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luiz_seroa\\source\\repos\\Malhando\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55592B8A-40E3-44F1-B17D-EA0544AB92DA}|Malhando\\Malhando.vcxproj|C:\\Users\\luiz_seroa\\source\\repos\\Malhando\\Malhando\\Malhando.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55592B8A-40E3-44F1-B17D-EA0544AB92DA}|Malhando\\Malhando.vcxproj|solutionrelative:Malhando\\Malhando.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Malhando.cpp",
+              "DocumentMoniker": "C:\\Users\\luiz_seroa\\source\\repos\\Malhando\\Malhando\\Malhando.cpp",
+              "RelativeDocumentMoniker": "Malhando\\Malhando.cpp",
+              "ToolTip": "C:\\Users\\luiz_seroa\\source\\repos\\Malhando\\Malhando\\Malhando.cpp",
+              "RelativeToolTip": "Malhando\\Malhando.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T13:56:57.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
